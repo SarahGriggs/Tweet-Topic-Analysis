@@ -20,10 +20,10 @@ from datetime import datetime
 # In[2]:
 
 
-consumer_key= 'RT0nIZdla7OWBZpBK4rVAZ6XX'
-consumer_secret= 'OyDsHf9W7MWVuetOUJZlv3HY68BCsgHx9M5sdK4sXkAbXW2yiE'
-access_token= '1113892594793291783-kYKaEiqNsstv8PLMoVHeYpb1D3F3uv'
-access_token_secret= 'VqrsUHU8wa2iPmWvsYwf87DtLYv1rn8MlLD8ccV1TbI7Q'
+consumer_key= 'xx'
+consumer_secret= 'xx'
+access_token= 'xx'
+access_token_secret= 'xxx'
 
 
 # In[3]:
